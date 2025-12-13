@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CyprianFusi/research-assistant-mcp/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/>
 
-  # Research Assistant MCP Server
+  # MCP Research Assistant Server
 
   _By **BINATI AInalytics**_
 </div>

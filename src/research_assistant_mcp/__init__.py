@@ -5,5 +5,5 @@ A Model Context Protocol server for research assistance with ChromaDB vector sto
 
 from research_assistant_mcp.server import main
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __all__ = ["main"]
