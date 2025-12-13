@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Laxmi Kant Tiwari**
+**Cyprian Fusi**
 - Email: info@binati-ai.com
 - GitHub: https://github.com/CyprianFusi/
 
