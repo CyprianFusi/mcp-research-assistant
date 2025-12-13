@@ -3,7 +3,7 @@
 A Model Context Protocol server for research assistance with ChromaDB vector storage.
 """
 
-from research_assistant_mcp.server import main
+from mcp_research_assistant.server import main
 
-__version__ = "0.1.3"
+__version__ = "0.1.0"
 __all__ = ["main"]

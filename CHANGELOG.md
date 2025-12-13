@@ -35,7 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0] - 2025-12-13
 
 ### Added
-- Initial release of research-assistant-mcp
+- Initial release of mcp-research-assistant
 - MCP Server for Research Assistant with Vector Database Management
 - ChromaDB integration for vector storage
 - OpenAI embeddings support
@@ -57,6 +57,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Support for multiple research topics
 - Comprehensive error handling
 
-[Unreleased]: https://github.com/CyprianFusi/research-assistant-mcp/compare/v0.1.1...HEAD
-[0.1.1]: https://github.com/CyprianFusi/research-assistant-mcp/compare/v0.1.0...v0.1.1
-[0.1.0]: https://github.com/CyprianFusi/research-assistant-mcp/releases/tag/v0.1.0
+[Unreleased]: https://github.com/CyprianFusi/mcp-research-assistant/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/CyprianFusi/mcp-research-assistant/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/CyprianFusi/mcp-research-assistant/releases/tag/v0.1.0

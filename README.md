@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CyprianFusi/research-assistant-mcp/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/>
+  <img src="https://raw.githubusercontent.com/CyprianFusi/mcp-research-assistant/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/>
 
   # MCP Research Assistant Server
 
@@ -41,8 +41,8 @@ pip install mcp-research-assistant
 ### From Source
 
 ```bash
-git clone https://github.com/CyprianFusi/research-assistant-mcp.git
-cd research-assistant-mcp
+git clone https://github.com/CyprianFusi/mcp-research-assistant.git
+cd mcp-research-assistant
 uv pip install -e .
 ```
 
@@ -178,8 +178,8 @@ Once configured with Claude Desktop or another MCP client, you can:
 
 ```bash
 # Clone the repository
-git clone https://github.com/CyprianFusi/research-assistant-mcp.git
-cd research-assistant-mcp
+git clone https://github.com/CyprianFusi/mcp-research-assistant.git
+cd mcp-research-assistant
 
 # Install with development dependencies
 uv pip install -e .
