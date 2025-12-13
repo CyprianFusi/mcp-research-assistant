@@ -1,4 +1,11 @@
-# Research Assistant MCP Server
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CyprianFusi/research-assistant-mcp/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/>
+
+  # Research Assistant MCP Server
+
+  _By **BINATI AInalytics**_
+</div>
+
 
 A Model Context Protocol (MCP) server that provides intelligent research data management using vector embeddings and semantic search. This server enables you to save, organize, and retrieve research content using ChromaDB and OpenAI embeddings.
 
@@ -16,19 +23,19 @@ A Model Context Protocol (MCP) server that provides intelligent research data ma
 ### Using uvx (Recommended)
 
 ```bash
-uvx research-assistant-mcp
+uvx mcp-research-assistant
 ```
 
 ### Using uv
 
 ```bash
-uv pip install research-assistant-mcp
+uv pip install mcp-research-assistant
 ```
 
 ### Using pip
 
 ```bash
-pip install research-assistant-mcp
+pip install mcp-research-assistant
 ```
 
 ### From Source
@@ -67,7 +74,7 @@ RESEARCH_DB_PATH=/path/to/data
   "mcpServers": {
     "research-assistant": {
       "command": "uvx",
-      "args": ["research-assistant-mcp"],
+      "args": ["mcp-research-assistant"],
       "env": {
         "OPENAI_API_KEY": "your-api-key-here",
         "RESEARCH_DB_PATH": "/path/to/data"

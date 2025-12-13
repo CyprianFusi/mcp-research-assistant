@@ -1,5 +1,5 @@
 [project]
-name = "research-assistant-mcp"
+name = "mcp-research-assistant"
 version = "0.1.1"
 description = "MCP Server for Research Assistant with Vector Database Management"
 readme = "README.md"
@@ -29,6 +29,7 @@ dependencies = [
     "mcp-remote>=0.1.0",
     "mcp[cli]>=1.23.2",
     "requests>=2.32.5",
+    "twine>=6.2.0",
 ]
 
 [project.optional-dependencies]
