@@ -9,6 +9,14 @@
 
 A Model Context Protocol (MCP) server that provides intelligent research data management using vector embeddings and semantic search. This server enables you to save, organize, and retrieve research content using ChromaDB and OpenAI embeddings.
 
+## Screenshots
+
+![UI Screenshot 1](assets/ui_1.png)
+![UI Screenshot 2](assets/ui_2.png)
+![UI Screenshot 3](assets/ui_3.png)
+![UI Screenshot 4](assets/ui_4.png)
+![UI Screenshot 5](assets/ui_5.png)
+
 ## Features
 
 - **Vector Storage**: Uses ChromaDB for efficient storage and retrieval

@@ -1,6 +1,6 @@
 [project]
 name = "mcp-research-assistant"
-version = "0.1.4"
+version = "0.1.5"
 description = "MCP Server for Research Assistant with Vector Database Management"
 readme = "README.md"
 requires-python = ">=3.13"
